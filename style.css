@@ -145,7 +145,7 @@ img {
 .border {
   margin: 0;
   border: 1px solid var(--DesaturatedBlue);
-  background-color: var(--DesaturatedBlue);
+  background-color: var(--VeryDarkBlue);
   color: var(--LightGrayishBlue);
 }
 .bordertext {
